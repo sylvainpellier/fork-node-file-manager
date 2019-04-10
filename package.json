@@ -1,5 +1,5 @@
 {
-  "name": "node-file-manager",
+  "name": "fork-node-file-manager",
   "version": "0.4.6",
   "description": "File manager web based on Koa and Angular.js",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node --harmony ./lib/index.js"
   },
   "bin": {
-    "node-file-manager": "../node-file-manager/bin/node-file-manager.sh"
+    "node-file-manager": "../fork-node-file-manager/bin/node-file-manager.sh"
   },
   "dependencies": {
     "co": "^4.6.0",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/efeiefei/node-file-manager.git"
+    "url": "git+https://bitbucket.org/sponline/fork-node-file-manager.git"
   },
   "keywords": [
     "files",
