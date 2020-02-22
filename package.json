@@ -7,7 +7,7 @@
     "start": "node --harmony ./lib/index.js"
   },
   "bin": {
-    "node-file-manager": "../bin/fork-node-file-manager.sh"
+    "node-file-manager": "./bin/fork-node-file-manager.sh"
   },
   "dependencies": {
     "co": "^4.6.0",
